@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-alokraj-05/alokraj-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+alokraj-05/alokraj-05 is a ✨ special ✨ Currently learning python & SQL (lvl-12th standard)
 --->
