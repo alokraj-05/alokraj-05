@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/aloraj-05](https://www.github.com/aloraj-05)
+- 👨‍💻 All of my projects are available at [https://www.github.com/aloraj-05](https://www.github.com/alokraj-05)
 
 - 💬 Ask me about **css, js, python and some mysql**
 
