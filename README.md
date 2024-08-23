@@ -1,9 +1,9 @@
 <h1 align="center">Hi, Exodus here</h1>
-<h3> Frontend developer and Backend learner
-</h3>
 
-> [![GitHub alokraj-05](https://img.shields.io/github/followers/alokraj-05?label=follow&style=social&color=9F4BFF)](https://github.com/alokraj-05) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=social&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/alokraj-05?style=flat&color=9F4BFF) &#8287;
+**Frontend developer and Backend learner** <br>
+Open to work on frontend proejcts
 
+> [![GitHub alokraj-05](https://img.shields.io/github/followers/alokraj-05?label=follow&style=social&color=9F4BFF)](https://github.com/alokraj-05) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/alokraj-05?style=flat&color=9F4BFF) &#8287;[![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:exodus.shard@gmail.com)
 
 
 
@@ -34,7 +34,7 @@ const exodus = {
 <a href="https://linkedin.com/alokraj05" target="blank"><img width="32px" height="32px" title="linkedin" alt="linkedin" src="https://img.icons8.com/?size=100&id=8808&format=png&color=9F4BFF"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+> <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=11670&format=png&color=9F4BFF" alt="arduino" width="40" height="40"/></a>
   &#8287;
@@ -57,7 +57,7 @@ const exodus = {
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF" alt="tailwind" width="40" height="40"/></a> 
 </p>
 
-***STATS***
+> <h4>STATS</h4>
 <p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alokraj-05&theme=midnight_purple" width="40%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alokraj-05&theme=midnight_purple" width="40%">
 </p>
@@ -66,3 +66,4 @@ const exodus = {
 </p>
 
 [![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=alokraj-05&repo=Discord-Moderation-Bot&title_color=9F4BFF&bg_color=000000)](https://github.com/alokraj-05/Discord-Moderation-Bot) &#8287;
+[![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=alokraj-05&repo=portfolioOne&title_color=9F4BFF&bg_color=000)](https://github.com/alokraj-05/portfolioOne)
