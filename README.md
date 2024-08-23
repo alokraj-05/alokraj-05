@@ -9,7 +9,7 @@ Open to work on frontend proejcts
 
 <hr>
 
-**Breif About Me!**
+**Brief About Me!**
 
 ```javascript
 const exodus = {
