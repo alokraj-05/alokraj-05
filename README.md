@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Exodus here</h1>
+<h1 align="center">Hi, this is Alok</h1>
 
 **Frontend developer and Backend learner** <br>
 Open to work on frontend proejcts
@@ -12,8 +12,8 @@ Open to work on frontend proejcts
 **Brief About Me!**
 
 ```javascript
-const exodus = {
-  name:"Exodus",
+const intro = {
+  name:"Alok",
   type:"Programmer",
   inProgress:"Backend",
   programming:["javaScript","html5","css","c","java","python"],
