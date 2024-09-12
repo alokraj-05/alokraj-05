@@ -58,6 +58,10 @@ const intro = {
 &#8287;
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=t9oCxEN7McHZ&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
 </p>
 
 
