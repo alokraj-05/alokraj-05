@@ -55,8 +55,11 @@ const intro = {
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=35989&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF" alt="tailwind" width="40" height="40"/></a> 
+&#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
 </p>
-<a href="https://linkedin.com/alokraj05" target="blank"><img width="32px" height="32px" title="linkedin" alt="linkedin" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=9F4BFF"></a>
+
 
 > <h4>STATS</h4>
 <p>
