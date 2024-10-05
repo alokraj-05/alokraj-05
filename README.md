@@ -21,7 +21,9 @@ const intro = {
   proficient:"javaScript",
   onGoingWorks:{
     course:"node.js",
-    project:["discord moderation bot with dashboard","Cli tool to create custom dc bot"]
+    project:[
+            {name:"Moderation-Bot", description:"A discord moderation bot"},
+            {name:"P2P-WebApplication", description:"A learning web applications listing all the features of an edu web, with lots of more functionality."}]
   },
   learnerType:"self learner",
 };
