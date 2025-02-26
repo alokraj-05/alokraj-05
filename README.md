@@ -17,13 +17,13 @@ const intro = {
   type:"Programmer",
   inProgress:"Backend",
   programming:["javaScript","html5","css","c","java","python"],
-  tools:[React,Tailwind,BootStrap,NodeJs,ExpressJs],
+  tools:[React,Tailwind,BootStrap,NodeJs,ExpressJs,TS],
   proficient:"javaScript",
   onGoingWorks:{
-    course:"node.js",
+    course:"Api's and Caching",
     project:[
-            {name:"Moderation-Bot", description:"A discord moderation bot"},
-            {name:"P2P-WebApplication", description:"A learning web applications listing all the features of an edu web, with lots of more functionality."}]
+            {name:"Moderation-Bot", description:"A discord moderation bot."},
+            {name:"Web Extension", description:"Chrome web extension for students and devs for more effeciency."}]
   },
   learnerType:"self learner",
 };
