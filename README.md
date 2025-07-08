@@ -15,17 +15,16 @@ Open to work on frontend proejcts
 const intro = {
   name:"Alok",
   type:"Programmer",
-  inProgress:"Backend",
-  programming:["javaScript","html5","css","c","java","python"],
-  tools:[React,Tailwind,BootStrap,NodeJs,ExpressJs,TS],
-  proficient:"javaScript",
+  inProgress:"ML",
+  stack:["js","ts","html5","css","c","java","python"],
+  tools:['Nextjs','React','Tailwind','BootStrap','NodeJs','ExpressJs','Redis','Docker'],
+  proficient:"Backend",
   onGoingWorks:{
-    course:"Api's and Caching",
     project:[
-            {name:"Moderation-Bot", description:"A discord moderation bot."},
-            {name:"Web Extension", description:"Chrome web extension for students and devs for more effeciency."}]
+            {name:"Hackathon web", description:"Hackathon application for scholarpeak"},
+            {name:"Dashboard", description:"Discord bot dashboard that provides all type of bot customization via dashboard."}]
   },
-  learnerType:"self learner",
+  learnerType:"self",
 };
 ```
 
