@@ -20,7 +20,7 @@ const intro = {
   proficient:"Backend",
   onGoingWorks:{
     project:[
-            {name:"Hackathon web", description:"Hackathon application for scholarpeak"},
+            {name:"Draw", description:"something idk either"},
             {name:"Dashboard", description:"Discord bot dashboard that provides all type of bot customization via dashboard."}]
   },
   learnerType:"self",
