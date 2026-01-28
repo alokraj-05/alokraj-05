@@ -15,8 +15,8 @@ const intro = {
   name:"Alok",
   type:"Programmer",
   inProgress:"ML",
-  stack:["js","ts","html5","css","c","java","python"],
-  tools:['Nextjs','React','Tailwind','BootStrap','NodeJs','ExpressJs','Redis','Docker'],
+  stack:["js","ts","html5","css","c","java","python","rust","go"],
+  tools:['Nextjs','React','Tailwind','BootStrap','NodeJs','ExpressJs','Redis','Docker',"linux"],
   proficient:"Backend",
   onGoingWorks:{
     project:[
